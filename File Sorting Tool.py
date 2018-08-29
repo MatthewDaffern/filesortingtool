@@ -8,8 +8,8 @@ from shutil import copy2 as cp
 #Please note the following:
 #Python interprets \ as the unicode escape character, and Microsoft very "nicely" uses that for folder structure organization. You will need to enter in \\
 #If any folders exist in the unsorted folder that match the item ID exactly, the script will fail because it cannot overwrite objects.
-#I have some of the most confusing variale names in here, so I tried to comment what I could.
-
+#I have some of the most confusing variable names in here, so I tried to comment what I could.
+#I'll probably make this simpler as time goes on.
 
 
 
